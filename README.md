@@ -9,7 +9,7 @@ Also you should visit the original repository: https://github.com/So-Chat/sochat
 Main repository's owner: https://github.com/yomirein
 
 # What is ReChat?
-Rechat is an alternative solution (client) of SoChatClient made in C#. The original SoChatClient made in Dart.
+Rechat is an alternative solution (client) of SoChatClient made on C#. The original SoChatClient made on Dart.
 
 SoChat enables users to create and manage their own messaging servers for text and voice communication through the dedicated SoChat Client application, giving them full control over customization and security.
 The main goal of SoChat Client is to make using self-hosted messaging servers as simple as possible.
