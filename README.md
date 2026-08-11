@@ -17,4 +17,10 @@ The client is designed for users who want to connect to self-hosted messaging in
 
 We think Forest Freedom Project must support SoChat Project and use our forces to help as much as possible, because SoChat Project supports freedom and privacy in the Internet.
 
+## ReChat is still a work in progress
+ReChat is under active development like the original client. Follow this repository if you are interested how to make your own instrument for simple and private messaging.
+
+## Libraries used in project
+(coming soon)
+
 
