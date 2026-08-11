@@ -3,7 +3,9 @@
 
 # About SoChat Project
 Please visit the SoChat Project's page: https://github.com/So-Chat
+
 Also you should visit the original repository: https://github.com/So-Chat/sochat_client
+
 Main repository's owner: https://github.com/yomirein
 
 # What is ReChat?
